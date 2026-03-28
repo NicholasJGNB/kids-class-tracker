@@ -377,7 +377,7 @@ function CourseDetailModal({
         </div>
 
         {/* Actions */}
-        <div className="flex gap-3">
+        <div className="flex gap-3 pb-6">
           <button
             onClick={onMarkClass}
             className="flex-1 py-3 bg-pink-400 text-white rounded-xl font-medium text-sm hover:bg-pink-500 transition-colors"

@@ -101,7 +101,7 @@ export default function HomePage() {
   };
 
   return (
-    <div className="px-4 pt-4 pb-40">
+    <div className="px-4 pt-6 pb-40">
       {/* 顶部孩子切换 */}
       <ChildSwitcher
         children={children}
